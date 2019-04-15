@@ -1,0 +1,31 @@
+FOSS ROM (alternative to Stock ROM):
+------------------------------------
+1.) Lineage ROM
+
+Alternative to Google Services:
+-------------------------------
+1.) MicroG package -- It gives google experience without google's tracking.
+    1.1.) https://microg.org/
+2.) MicroG package is integrated with lineage Rom.
+    2.1.) https://lineage.microg.org/
+
+Alternative to Google Play Store:
+---------------------------------
+1.) Fdroid -- All Android FOSS application available here.
+2.) Aurora Store -- All google playstore application are available here without using google account.
+
+Famous FOSS Application:
+------------------------
+1.) Fennec F-Droid(Browser) - based on latest firefox, focused on removing any proprietary bits found in official Mozilla's builds.
+2.) NewPipe (Youtube)-  does not use any Google framework libraries or the YouTube API. It only parses the website to get the information.
+3.) NetGuard (no root) - simple ways to block access to the internet. 
+4.) Keepass DX (Offline Password Manager)
+5.) TrebleShot ( alternative to shareit) - send & receive files without an internet connection
+6.) AFWall+ (root) - firewall application
+7.) Signal Private messenger (alternative to Telegram/Whatsapp) (Aurora Store)  
+8.) LibreOffice Viewer - Document Viewer
+9.) VLC - Media Player
+
+Famous Application in Aurora Store:
+-----------------------------------
+1.) ProtonMail (alternative to gmail) - World's largest encrypted email service 
