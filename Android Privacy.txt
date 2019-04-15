@@ -25,6 +25,7 @@ Famous FOSS Application:
 7.) Signal Private messenger (alternative to Telegram/Whatsapp) (Aurora Store)  
 8.) LibreOffice Viewer - Document Viewer
 9.) VLC - Media Player
+10.) OsmAnd~ - (google maps alternative)  Navigation Maps based on OpenStreetMaps 
 
 Famous Application in Aurora Store:
 -----------------------------------
